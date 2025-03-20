@@ -1,5 +1,7 @@
-This project was completed using a python notebook to make thing modular as compared to a python script file
+# NLP 
 
+## This project was completed using a python notebook to make thing modular as compared to a python script file
+### The instructions are as follows:
 1.EDA Expansion:
 Explore the most common words in fake and real headlines using separate word clouds or bar plots. What patterns can you observe?
  

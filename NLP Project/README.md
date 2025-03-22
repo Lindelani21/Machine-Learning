@@ -1,4 +1,4 @@
-# NLP 
+# Natural Language Programming 
 
 ## This project was completed using a python notebook to make thing modular as compared to a python script file
 ### The instructions are as follows:
